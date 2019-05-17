@@ -9,7 +9,7 @@
 	</parent>
 	<artifactId>spring-boot-sample-atmosphere</artifactId>
 	<name>Spring Boot Atmosphere Sample</name>
-	<description>Spring Boot Atmosphere jenkins tutorial</description>
+	<description>Spring Boot Atmosphere jenkins tutorial bla bla bla</description>
 	<url>http://projects.spring.io/spring-boot/</url>
 	<organization>
 		<name>Pivotal Software, Inc.</name>
